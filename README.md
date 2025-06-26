@@ -206,4 +206,4 @@ Email: akash_k@ce.iitr.ac.in
 
 If you find any bug or want a new feature, open an issue at:
 
-👉 https://github.com/yourusername/PhenoFit-Pro/issues
+👉 https://github.com/ItsAkashPandey/PhenoFit-Pro/issues
