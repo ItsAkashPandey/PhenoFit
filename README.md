@@ -64,7 +64,7 @@ Make sure to check **“Add Python to PATH”** during installation.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PhenoFit-Pro.git
+git clone https://github.com/ItsAkashPandey/PhenoFit-Pro.git
 cd PhenoFit-Pro
 ```
 
