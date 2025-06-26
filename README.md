@@ -182,7 +182,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## 👤 Author & Contact
 
-**Akash Kumar (aka Akash Pandey)**  
+**Akash Kumar**  
 PhD Scholar, Geomatics Engineering, IIT Roorkee  
 Research Focus: Remote Sensing, Crop Phenology, PhenoCam, AI  
 Email: akash_k@ce.iitr.ac.in  
@@ -194,10 +194,3 @@ Email: akash_k@ce.iitr.ac.in
 If you find any bug or want a new feature, open an issue at:
 
 👉 https://github.com/yourusername/PhenoFit-Pro/issues
-
----
-
-## 🙏 Acknowledgments
-
-This GUI was developed under the PhD research project titled:  
-**"Wheat Growth Sensitivity to Microclimate: A PhenoCam-AWS Fusion Approach"**
