@@ -172,11 +172,12 @@ Check or uncheck the box: **"Show SOS/EOS/Peak"** to toggle markers.
 
 ## 📜 License
 
-MIT License
+This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may use and share this work with proper credit, but **modification and commercial use are prohibited** without permission.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software...
+For commercial inquiries or special permissions, contact:  
+**Akash Kumar** – akash_k@ce.iitr.ac.in
 
-(Include full MIT text in `LICENSE` file)
 
 ---
 
