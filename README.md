@@ -3,6 +3,7 @@
 **PhenoFit Pro** is a Python-based interactive GUI tool for fitting **double logistic curves** to vegetation index time-series data (such as GCC, NDVI, EVI, ExG, RGBVI).  
 It is designed specifically for crop phenology research using PhenoCam, UAV, or satellite data.
 
+![PhenoFit_Pro Screenshot](Screenshots/0.PhenoFit_Pro_Window.png)
 ---
 
 ## 📋 Table of Contents
@@ -147,25 +148,25 @@ Check or uncheck the box: **"Show SOS/EOS/Peak"** to toggle markers.
 ## 🖼 Screenshots
 
 ### 1. Opening Window
-![Load Data Screenshot](Screenshots/1.Opening_Window.png)
+![Opening_Window](Screenshots/1.Opening_Window.png)
 
 ### 2. Load Main Data (Provided in Example Data)
 ![Load Data Screenshot](Screenshots/2.Load_Data.png)
 
 ### 3. Fit the Curve using parameters/Optimization
-![Load Data Screenshot](Screenshots/3.Fitted_Curve.png)
+![Curve Fit Screenshot](Screenshots/3.Fitted_Curve.png)
 
 ### 4. Load Grouping
-![Grouping Screenshot](screenshots/4.Load_Grouping_OPTIONAL.png)
+![Grouping Screenshot](Screenshots/4.Load_Grouping_OPTIONAL.png)
 
 ### 5. Select Grouping Parameters
-![Load Data Screenshot](Screenshots/5.Select_Grouping_Parameters.png)
+![Grouping Parameters Screenshot](Screenshots/5.Select_Grouping_Parameters.png)
 
 ### 6. Toggle On/Off Parameters (SOS/EOS/Peak in Graph)
-![Fitting Screenshot](screenshots/6.Toggle_Parameters.png)
+![Parameters_Toggle Screenshot](Screenshots/6.Toggle_Parameters.png)
 
 ### 7. Save Graph and Fitted Parameters
-![Fitting Screenshot](screenshots/7.Output_Save.png)
+![Saving Screenshot](Screenshots/7.Output_Save.png)
 
 
 ---
