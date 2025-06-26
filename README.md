@@ -146,16 +146,27 @@ Check or uncheck the box: **"Show SOS/EOS/Peak"** to toggle markers.
 
 ## 🖼 Screenshots
 
-### Load Main Data
+### 1. Opening Window
+![Load Data Screenshot](Screenshots/1.Opening_Window.png)
+
+### 2. Load Main Data (Provided in Example Data)
 ![Load Data Screenshot](Screenshots/2.Load_Data.png)
 
-### Load Grouping
-![Grouping Screenshot](screenshots/load_grouping.png)
+### 3. Fit the Curve using parameters/Optimization
+![Load Data Screenshot](Screenshots/3.Fitted_Curve.png)
 
-### Fitting Curve + Stats
-![Fitting Screenshot](screenshots/curve_fit.png)
+### 4. Load Grouping
+![Grouping Screenshot](screenshots/4.Load_Grouping_OPTIONAL.png)
 
-> Upload your screenshots in a `screenshots/` folder in the repo
+### 5. Select Grouping Parameters
+![Load Data Screenshot](Screenshots/5.Select_Grouping_Parameters.png)
+
+### 6. Toggle On/Off Parameters (SOS/EOS/Peak in Graph)
+![Fitting Screenshot](screenshots/6.Toggle_Parameters.png)
+
+### 7. Save Graph and Fitted Parameters
+![Fitting Screenshot](screenshots/7.Output_Save.png)
+
 
 ---
 
