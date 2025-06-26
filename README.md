@@ -147,7 +147,7 @@ Check or uncheck the box: **"Show SOS/EOS/Peak"** to toggle markers.
 ## 🖼 Screenshots
 
 ### Load Main Data
-![Load Data Screenshot](screenshots/load_data.png)
+![Load Data Screenshot](Screenshots/Load_Data.png)
 
 ### Load Grouping
 ![Grouping Screenshot](screenshots/load_grouping.png)
